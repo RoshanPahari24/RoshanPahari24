@@ -25,6 +25,7 @@
 ### 🌱 What I'm Up To
 - 🌿 Learning <strong>MERN Stack</strong>
 - 📁 Projects: [github.com/RoshanPahari24](https://github.com/RoshanPahari24)
+- 🤌 Updates : [github.com/RoshanPahari24](https://github.com/RoshanPahari24/Godly-)
 
 
 ---
