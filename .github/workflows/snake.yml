@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
   workflow_dispatch:
   push:
     branches:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # full history for pushing
+          fetch-depth: 0  # Fetch full history for commit
 
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
@@ -26,7 +26,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=#3498db&color_dots=#555555,#777777,#999999,#bbbbbb,#dddddd&color_bg=f0f0f0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
