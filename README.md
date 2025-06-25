@@ -25,8 +25,7 @@
 ### 🌱 What I'm Up To
 - 🌿 Learning <strong>MERN Stack</strong>
 - 📁 Projects: [github.com/RoshanPahari24](https://github.com/RoshanPahari24)
-- 🤌 Updates : [github.com/RoshanPahari24](https://github.com/RoshanPahari24/Godly-)
-
+- 🤌 Updates : [github.com/RoshanPahari24/Godly-](https://github.com/RoshanPahari24/Godly-)
 
 ---
 
@@ -67,18 +66,25 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies (Minimal, Theme-Aware)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshanpahari24&theme=darkhub&no-bg=true&margin-w=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=roshanpahari24&theme=onedark&no-frame=true&row=1&column=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=roshanpahari24&theme=flat&no-frame=true&row=1&column=5" />
+    <img src="https://github-profile-trophy.vercel.app/?username=roshanpahari24&theme=onedark&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
+  </picture>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Theme-Aware)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%"/>
-  <img src="https://streak-stats.demolab.com?user=roshanpahari24&theme=tokyonight&hide_border=true" width="49.5%"/>
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" />
+  </picture>
+
 
 ---
 
@@ -88,4 +94,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RoshanPahari24/RoshanPahari24/main/dist/ocean.gif" alt="GitHub Snake animation" />
 </p>
-
