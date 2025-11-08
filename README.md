@@ -10,7 +10,7 @@
     <h1>Hi 👋, I'm Roshan Pahari</h1>
     <h3>"Turning ideas into code, one project at a time."</h3>
     I'm passionate about crafting clean, efficient, and innovative code.<br>
-    Currently diving deep into the <strong>MERN Stack</strong> while building full-stack projects to grow my dev game 🚀
+    Currently diving deep into the <strong>Web Development</strong> while building projects to grow my dev game 🚀
   </td>
   <td>
     <p align="center">
@@ -23,9 +23,8 @@
 ---
 
 ### 🌱 What I'm Up To
-- 🌿 Learning <strong>MERN Stack</strong>
+- 🌿 Learning <strong>Web Development</strong>
 - 📁 Projects: [github.com/RoshanPahari24](https://github.com/RoshanPahari24)
-- 🤌 Updates : [github.com/RoshanPahari24/Godly-](https://github.com/RoshanPahari24/Godly-)
 
 ---
 
@@ -47,14 +46,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
