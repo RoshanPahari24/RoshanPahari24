@@ -74,9 +74,12 @@
 ### 📊 GitHub Stats (Theme-Aware)
 
 <p align="center">
-(https://github-readme-stats.vercel.app/api?username=roshanpahari24)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=20251203" width="49.5%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=default&hide_border=true&cache_bust=20251203" width="49.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=20251203" width="49.5%" alt="roshanpahari24's GitHub Stats" />
+  </picture>
 </p>
-
 
 
 
