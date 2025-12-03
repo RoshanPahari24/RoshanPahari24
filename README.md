@@ -72,12 +72,15 @@
 ---
 
 ### 📊 GitHub Stats (Theme-Aware)
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roshanpahari24&show_icons=true&theme=default&hide_border=true" width="49.5%" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roshanpahari24&show_icons=true&theme=tokyonight&hide_border=true" width="49.5%" alt="roshanpahari24's GitHub Stats" />
   </picture>
+</p>
+
 
 
 ---
